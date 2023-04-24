@@ -1,2 +1,2 @@
 # Twitter-API_Spark-and-Elasticsearch
-... à compléter
+Tweets analysis and clustering using Spark streaming and Elastic Search.
